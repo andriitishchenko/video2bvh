@@ -5,6 +5,8 @@
 * enter url https://github.com/andriitishchenko/video2bvh
 * click BVH.ipynb, then follow instructions
 
+A few test samples [here](https://drive.google.com/drive/folders/1DSZfjLLg8XohkYJjAxNTIp-1fZ7XCx8y?usp=sharing)
+
 # video2bvh
 
 video2bvh extracts human motion in video and save it as bvh mocap file.
