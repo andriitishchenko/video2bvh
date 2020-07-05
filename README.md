@@ -1,3 +1,10 @@
+# HOW TO
+
+* goto https://colab.research.google.com/
+* click "GitHub" tab
+* enter url https://github.com/andriitishchenko/video2bvh
+* click BVH.ipynb, then follow instructions
+
 # video2bvh
 
 video2bvh extracts human motion in video and save it as bvh mocap file.
