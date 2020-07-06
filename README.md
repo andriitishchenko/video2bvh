@@ -1,5 +1,8 @@
 # HOW TO
 
+[Open in Google Colab](https://colab.research.google.com/github/andriitishchenko/video2bvh/blob/master/BVH.ipynb)
+
+-- or manually --
 * goto https://colab.research.google.com/
 * click "GitHub" tab
 * enter url https://github.com/andriitishchenko/video2bvh
